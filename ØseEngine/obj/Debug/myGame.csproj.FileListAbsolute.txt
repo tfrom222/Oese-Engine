@@ -1,0 +1,15 @@
+c:\users\tobias\documents\visual studio 2015\Projects\myGame\myGame\bin\Debug\myGame.exe.config
+c:\users\tobias\documents\visual studio 2015\Projects\myGame\myGame\bin\Debug\myGame.exe
+c:\users\tobias\documents\visual studio 2015\Projects\myGame\myGame\bin\Debug\myGame.pdb
+c:\users\tobias\documents\visual studio 2015\Projects\myGame\myGame\bin\Debug\ChamberLib.dll
+c:\users\tobias\documents\visual studio 2015\Projects\myGame\myGame\bin\Debug\ChamberLib.FbxSharp.dll
+c:\users\tobias\documents\visual studio 2015\Projects\myGame\myGame\bin\Debug\FbxSharp.dll
+c:\users\tobias\documents\visual studio 2015\Projects\myGame\myGame\bin\Debug\NAudio.dll
+c:\users\tobias\documents\visual studio 2015\Projects\myGame\myGame\bin\Debug\NVorbis.dll
+c:\users\tobias\documents\visual studio 2015\Projects\myGame\myGame\bin\Debug\OpenTK.dll
+c:\users\tobias\documents\visual studio 2015\Projects\myGame\myGame\bin\Debug\NAudio.xml
+c:\users\tobias\documents\visual studio 2015\Projects\myGame\myGame\bin\Debug\NVorbis.xml
+c:\users\tobias\documents\visual studio 2015\Projects\myGame\myGame\bin\Debug\OpenTK.xml
+c:\users\tobias\documents\visual studio 2015\Projects\myGame\myGame\obj\Debug\myGame.csprojResolveAssemblyReference.cache
+c:\users\tobias\documents\visual studio 2015\Projects\myGame\myGame\obj\Debug\myGame.exe
+c:\users\tobias\documents\visual studio 2015\Projects\myGame\myGame\obj\Debug\myGame.pdb
